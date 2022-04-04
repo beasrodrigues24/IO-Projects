@@ -4,7 +4,7 @@ Trabalhos práticos realizados na unidade curricular de Investigação Operacion
 
 ## Avaliações
 
-TP1: 19/20
+TP1: 18/20
 
 TP2: /20
 
