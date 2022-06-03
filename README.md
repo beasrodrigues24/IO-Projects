@@ -6,7 +6,7 @@ Trabalhos práticos realizados na unidade curricular de Investigação Operacion
 
 TP1: 18/20
 
-TP2: /20
+TP2: 17/20
 
 ## Grupo
 
